@@ -1,0 +1,38 @@
+.mern-stack {
+	width: 300px;
+	border: 1px dashed blue;
+	padding: 10px;
+}
+.mern-stack img {
+	width: 100%;
+}
+.mern-stack h2 {
+	color: green;
+	text-align: center;
+}
+.mern-stack p {
+	font-size: 10px;
+	line-height: 1.6;
+}
+
+.mern-stack-3 {
+	width: 300px;
+	border: 1px dashed blue;
+	padding: 10px;
+}
+.mern-stack-3 img {
+	width: 100%;
+}
+.mern-stack-3 h2 {
+	color: blue;
+	text-align: center;
+}
+.mern-stack-3 p {
+	font-size: 10px;
+	line-height: 1.6;
+	color: red;
+}
+
+.main-color {
+	color: skyblue;
+}
