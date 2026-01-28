@@ -1,0 +1,6 @@
+CSS Selector:
+- tag (h2, h3,)
+- class (.mern-stack, .box)
+- id (#box, #mern-stack)
+- descendant (.header-section div p)
+ 
